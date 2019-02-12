@@ -1,3 +1,3 @@
 # faithtab-applications
 
-update to readme
+update to readme new
