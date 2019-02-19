@@ -7,8 +7,12 @@ faith-service/\.classpath
 
 faith-service/\.project
 
+<<<<<<< HEAD
 <<<<<<< master
 faith-service/\.vscode/
 =======
 faith-service/bin/
 >>>>>>> update gitignore for service
+=======
+faith-service/bin/
+>>>>>>> faith-ui
