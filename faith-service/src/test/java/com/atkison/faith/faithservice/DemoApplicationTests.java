@@ -1,4 +1,4 @@
-package com.atkison.faithservice;
+package com.atkison.faith.faithservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,4 +14,3 @@ public class DemoApplicationTests {
 	}
 
 }
-
