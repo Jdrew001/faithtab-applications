@@ -7,4 +7,8 @@ faith-service/\.classpath
 
 faith-service/\.project
 
+<<<<<<< HEAD
 faith-service/bin/
+=======
+faith-service/\.vscode/
+>>>>>>> master
