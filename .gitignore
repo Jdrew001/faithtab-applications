@@ -8,6 +8,7 @@ faith-service/\.classpath
 faith-service/\.project
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< master
 faith-service/\.vscode/
 =======
@@ -16,3 +17,9 @@ faith-service/bin/
 =======
 faith-service/bin/
 >>>>>>> faith-ui
+=======
+faith-service/bin/
+=======
+faith-service/\.vscode/
+>>>>>>> master
+>>>>>>> drew-ui

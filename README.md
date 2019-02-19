@@ -1,9 +1,10 @@
 # faithtab-applications
 
-update to readme new
-keep working --
 
+<<<<<<< HEAD
 working
 
 Pull
 test
+=======
+>>>>>>> drew-ui
