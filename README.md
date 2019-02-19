@@ -5,5 +5,9 @@ keep working --
 
 working
 
+<<<<<<< HEAD
 
 Coding some more
+=======
+Pull
+>>>>>>> quinn-ui
