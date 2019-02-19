@@ -18,6 +18,7 @@ import { PlanAVisitComponent } from './plan-a-visit/plan-a-visit.component';
 import { IamglobalComponent } from './iamglobal/iamglobal.component';
 import { BiblestudyComponent } from './biblestudy/biblestudy.component';
 import { ContactComponent } from './contact/contact.component';
+import { FooterComponent } from './shared/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { ContactComponent } from './contact/contact.component';
     PlanAVisitComponent,
     IamglobalComponent,
     BiblestudyComponent,
-    ContactComponent
+    ContactComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
