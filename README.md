@@ -1,7 +1,5 @@
 # faithtab-applications
 
-update to readme new
-keep working --
 
 working
 
@@ -10,4 +8,4 @@ working
 Coding some more
 =======
 Pull
->>>>>>> quinn-ui
+test
