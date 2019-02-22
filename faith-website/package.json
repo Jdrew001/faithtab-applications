@@ -21,11 +21,14 @@
     "@angular/router": "~7.2.0",
     "bootstrap": "^4.3.0",
     "core-js": "^2.5.4",
+    "jarallax": "^1.10.3",
+    "ng-uikit-pro-standard": "file:ng-uikit-pro-standard-7.4.1.tgz",
     "ng-fx": "^2.0.4",
     "primeicons": "^1.0.0",
     "primeng": "^7.0.5",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
+    "web-animations-js": "2.3.x",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
