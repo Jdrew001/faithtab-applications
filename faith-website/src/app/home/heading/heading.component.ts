@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { HelperService } from 'src/app/core/services/helper.service';
+import { HeadingConstants } from './heading.constants';
 
 @Component({
   selector: 'app-heading',
@@ -7,9 +9,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeadingComponent implements OnInit {
 
-  constructor() { }
+  //variables
+  imageUrl : string;
 
+  //constructor
+  constructor(private helperService: HelperService) { }
+
+  //This is the proper place to "load items"
   ngOnInit() {
+    this.loadAssets();
+  }
+
+  loadAssets() {
+    //load assets in this manner
+    this.imageUrl = this.helperService.getResourceUrl(HeadingConstants.testImageUrl, true);
   }
 
 }

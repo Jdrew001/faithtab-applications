@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import { SharedModule } from '../shared/shared.module';
 import { CommonModule } from '@angular/common';
 import { HomeComponent } from './home.component';
 import { HeadingComponent } from './heading/heading.component';
@@ -21,7 +22,8 @@ import { PlanAVisitSectionComponent } from './plan-a-visit-section/plan-a-visit-
     PlanAVisitSectionComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    SharedModule
   ],
   exports: [
     HomeComponent,
