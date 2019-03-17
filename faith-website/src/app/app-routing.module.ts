@@ -14,7 +14,7 @@ const routes: Routes = [
   { path: 'about', component: AboutComponent },
   { path: 'ministries', component: MinistriesComponent },
   { path: 'planavisit', component: PlanAVisitComponent },
-  { path: 'globalmissions', component: IamglobalComponent },
+  { path: 'iamglobal', component: IamglobalComponent },
   { path: 'biblestudy', component: BiblestudyComponent },
   { path: 'contact', component: ContactComponent }
 ];
