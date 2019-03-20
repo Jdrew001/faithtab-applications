@@ -9,8 +9,8 @@ import { MinistriesComponent } from './ministries/ministries.component';
 import { PlanAVisitComponent } from './plan-a-visit/plan-a-visit.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/home', pathMatch: 'full' },
-  { path: 'home', component: HomeComponent },
+  { path: '', redirectTo: '/', pathMatch: 'full' },
+  { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent },
   { path: 'ministries', component: MinistriesComponent },
   { path: 'planavisit', component: PlanAVisitComponent },
